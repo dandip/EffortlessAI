@@ -2,7 +2,7 @@
 This is an IPython Notebook that contains a variety of tools
 designed to make initializing, querying, and training an AI code-free and very easy to do.
 
-In order to get started, simply launch the notebook and scroll down to the ipywidgets-based GUI. That's it!
+In order to get started, simply launch the notebook and scroll down to the ipywidgets-based GUI. Make sure to run all cells first. That's it!
 
 Documentation is included in the notebook itself.
 
